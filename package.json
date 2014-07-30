@@ -1,0 +1,16 @@
+{
+  "name": "gulp-tcoffee",
+  "version": "0.0.0",
+  "main": "gulp-tcoffee.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "gulp-util": "^3.0.0",
+    "through2": "^0.5.1",
+    "typed-coffee-script": "^0.12.2"
+  },
+  "devDependencies": {}
+}
